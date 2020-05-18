@@ -8,7 +8,7 @@ public class SpringtestApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringtestApplication.class, args);
-        System.out.println("提交数据123123131231");
+        System.out.println("提交数据1231231312322111");
     }
 
 }
